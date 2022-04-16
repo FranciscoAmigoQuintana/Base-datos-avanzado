@@ -1,3 +1,0 @@
-Para el caso de este laboratorio es necesario el tener instalado tanto mongod, como python3. Tambien es importante el saber que necesita tener creada en mongod una base de datos con el nombre "db_lab1".
-
-Revizar el archivo de paquetes que son necesarios, entregado en la misma carpeta, es lo minimo que necesitara para poder correr esta aplicacion.
